@@ -1,0 +1,13 @@
+   
+   //随机打乱一个从0到Count-1的数组
+   void Disarrange(int[] array,int count)
+    {
+        for(int i = 0; i < count - 1; i++)
+        {
+            int rd = (int)(Random.value * count);
+            int temp=array[i];
+            array[i] = array[rd];
+            array[rd] = temp;
+        }
+
+    }
