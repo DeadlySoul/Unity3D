@@ -1,0 +1,10 @@
+# 可以参考的网站：
+# Unity性能分析工具 Profiler (http://docs.unity3d.com/Manual/Profiler.html)
+# Optimizing graphics performance ( http://docs.unity3d.com/Manual/OptimizingGraphicsPerformance.html )
+# Unite Europe 2016 - Optimizing Mobile Applications (http://unity3d.com/cn/learn/tutorials/topics/mobile-touch/unite-europe-2016-optimizing-mobile-applications)
+# Mobile Developer Checklist - Optimization ( http://docs.unity3d.com/Manual/MobileOptimisation.html )
+# Practical Guide to Optimization for Mobiles ( http://docs.unity3d.com/Manual/MobileOptimizationPracticalGuide.html )
+# Level Of Detail (http://docs.unity3d.com/Manual/LevelOfDetail.html)
+# LOD Group (http://docs.unity3d.com/Manual/class-LODGroup.html)
+# Understanding Automatic Memory Management 理解内存自动管理 (http://docs.unity3d.com/Manual/UnderstandingAutomaticMemoryManagement.html)
+# Quality Setting 质量设置 (http://docs.unity3d.com/Manual/class-QualitySettings.html)

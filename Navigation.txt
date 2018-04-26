@@ -1,0 +1,3 @@
+# 可以参考的网站：
+# http://docs.unity3d.com/Manual/Navigation.html 
+# http://unity3d.com/cn/learn/tutorials/topics/navigation
